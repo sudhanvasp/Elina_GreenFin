@@ -1,7 +1,7 @@
 # Elina_GreenFin - AI-driven Predictive Analytics for Green Finance
 
 ## Introduction
-Elina_GreenFin is a cutting-edge tool utilizing artificial intelligence to forecast trends and risks in green finance. It provides financial institutions with critical insights, enabling them to make well-informed and sustainable investment decisions.The model is stored on hugging facea
+Elina_GreenFin is a cutting-edge tool utilizing artificial intelligence to forecast trends and risks in green finance. It provides financial institutions with critical insights, enabling them to make well-informed and sustainable investment decisions.The model is stored on hugging face
 https://huggingface.co/sudhanvasp/ELINA
 
 Walkthrough of the program
