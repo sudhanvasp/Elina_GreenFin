@@ -1,0 +1,6 @@
+BeautifulSoup4
+torch
+torchvision
+torchaudio
+transformers
+--index-url https://download.pytorch.org/whl/cu118

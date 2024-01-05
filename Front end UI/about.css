@@ -1,0 +1,28 @@
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  .about-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    animation: fadeIn 2s ease-out;
+  }
+  
+  .about-container h1 {
+    color: #333;
+    font-size: 2.5rem;
+  }
+  
+  .about-container p {
+    color: #666;
+    line-height: 1.6;
+    margin-top: 20px;
+  }
+  
+  
