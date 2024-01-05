@@ -6,12 +6,12 @@ https://huggingface.co/sudhanvasp/ELINA
 
 ## Screenshots
 
-![](https://github.com/sudhanvasp/Elina_GreenFin/blob/main/Screenshots/Screenshot%202024-01-05%20131246.png)
-![](https://github.com/sudhanvasp/Elina_GreenFin/blob/main/Screenshots/Screenshot%202024-01-05%20163542.png)
+
 ![](https://github.com/sudhanvasp/Elina_GreenFin/blob/main/Screenshots/Screenshot%202024-01-05%20184305.png)
 ![](https://github.com/sudhanvasp/Elina_GreenFin/blob/main/Screenshots/Screenshot%202024-01-05%20184516.png)
 ![](https://github.com/sudhanvasp/Elina_GreenFin/blob/main/Screenshots/Screenshot%202024-01-05%20184530.png)
-
+![](https://github.com/sudhanvasp/Elina_GreenFin/blob/main/Screenshots/Screenshot%202024-01-05%20131246.png)
+![](https://github.com/sudhanvasp/Elina_GreenFin/blob/main/Screenshots/Screenshot%202024-01-05%20163542.png)
 
 
 
