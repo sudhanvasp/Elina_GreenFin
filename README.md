@@ -8,12 +8,13 @@ Before installing Elina_GreenFin, make sure Python is installed on your system.
 
 ```bash
 pip install -r requirements.txt
-
+```
 This command installs all necessary Python packages for Elina_GreenFin.
 
-```
 
-#Usage
+
+# Usage
+<br>
 Follow these steps to start using Elina_GreenFin:
 
 Clone the Elina_GreenFin repository:
@@ -41,28 +42,26 @@ python app.py
 ```
 Access the dashboard at http://localhost:5000 .
 
-Elina_GreenFin offers:
+# Elina_GreenFin offers:
 
 1.AI-powered analytics for green finance.
 2.Trend and risk prediction.
 3.A user-friendly web dashboard.
 
-#Contributing
+# Contributing
 To contribute:
-
 1.Fork the GitHub repository.
 2.Create a new branch for your feature or fix.
 3.Make changes and pass all tests.
 4.Submit a pull request with a detailed description.
 
-#License
+# License
 Elina_GreenFin is under the MIT License. See the LICENSE file for details.
 
-#Credits
+# Credits
 IITM for hosting Encryption
 temenos for sponsoring the event anf giving us this opportunity
 
-#Contact
+# Contact
 Email: sudhanvasp@gmail.com
-Website: www.elinagreenfin.com
 Elina_GreenFin: Empowering sustainable investment decisions in green finance.
