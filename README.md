@@ -62,6 +62,7 @@ Elina_GreenFin is under the MIT License. See the LICENSE file for details.
 
 # Credits
 IITM for hosting Encryption
+<br>
 temenos for sponsoring the event anf giving us this opportunity
 
 # Contact
