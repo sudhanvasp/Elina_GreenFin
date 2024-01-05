@@ -44,16 +44,18 @@ Access the dashboard at http://localhost:5000 .
 
 # Elina_GreenFin offers:
 
-1.AI-powered analytics for green finance.
-2.Trend and risk prediction.
-3.A user-friendly web dashboard.
+1. AI-powered analytics for green finance.
+
+2. Trend and risk prediction.
+
+3. A user-friendly web dashboard.
 
 # Contributing
 To contribute:
-1.Fork the GitHub repository.
-2.Create a new branch for your feature or fix.
-3.Make changes and pass all tests.
-4.Submit a pull request with a detailed description.
+1. Fork the GitHub repository.
+2. Create a new branch for your feature or fix.
+3. Make changes and pass all tests.
+4. Submit a pull request with a detailed description.
 
 # License
 Elina_GreenFin is under the MIT License. See the LICENSE file for details.
