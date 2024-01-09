@@ -26,6 +26,8 @@ Before installing Elina_GreenFin, make sure Python is installed on your system.
 pip install -r requirements.txt
 ```
 This command installs all necessary Python packages for Elina_GreenFin.
+last updated on 4th jan 2024
+
 
 
 
